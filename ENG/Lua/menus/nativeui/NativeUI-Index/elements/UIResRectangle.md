@@ -1,0 +1,1 @@
+same as [[UIResText]] but with Rectangles
